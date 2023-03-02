@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Puni.sh (Taurenkey)",
+        "Name": "Saucy",
+        "Punchline": "When working for MGP is too much effort.",
+        "Description": "Automates certain Gold Saucer mini-games.汉化来自Errerer大佬",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "InternalName": "Saucy",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadCount": 3797,
+        "LastUpdate": 1676748672,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/xfkun233/DalamudPlugins/main/plugins/Saucy/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xfkun233/DalamudPlugins/main/plugins/Saucy/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/xfkun233/DalamudPlugins/main/plugins/Saucy/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/saucy.png",
+        "AcceptsFeedback": true
+    }
+]
