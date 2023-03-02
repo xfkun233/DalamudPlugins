@@ -10,7 +10,7 @@
             "automation"
         ],
         "InternalName": "Saucy",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.3",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "DownloadCount": 3797,
